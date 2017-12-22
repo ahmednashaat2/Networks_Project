@@ -1,0 +1,344 @@
+Protocol :  Udp  
+ SourcePort :  443
+ DestinationPort :  51079
+ --------------------------------------------- 
+Protocol :  Udp  
+ SourcePort :  443
+ DestinationPort :  51079
+ --------------------------------------------- 
+Protocol :  Udp  
+ SourcePort :  443
+ DestinationPort :  51079
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  443
+ DestinationPort :  63518
+ SequenceNumber :  1353779193
+ NextSequenceNuber :  1353779270
+ AcknowladgmentNumber :  1120916004
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  443
+ DestinationPort :  63518
+ SequenceNumber :  1353779193
+ NextSequenceNuber :  1353779270
+ AcknowladgmentNumber :  1120916004
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63519
+ DestinationPort :  443
+ SequenceNumber :  2235399716
+ NextSequenceNuber :  2235400427
+ AcknowladgmentNumber :  3804131979
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63519
+ DestinationPort :  443
+ SequenceNumber :  2235399716
+ NextSequenceNuber :  2235400427
+ AcknowladgmentNumber :  3804131979
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  443
+ DestinationPort :  63469
+ SequenceNumber :  3723196668
+ NextSequenceNuber :  3723196668
+ AcknowladgmentNumber :  3960315756
+ --------------------------------------------- 
+Protocol :  Udp  
+ SourcePort :  443
+ DestinationPort :  49277
+ --------------------------------------------- 
+Protocol :  Udp  
+ SourcePort :  443
+ DestinationPort :  54457
+ --------------------------------------------- 
+Protocol :  Udp  
+ SourcePort :  443
+ DestinationPort :  54457
+ --------------------------------------------- 
+Protocol :  Udp  
+ SourcePort :  54457
+ DestinationPort :  443
+ --------------------------------------------- 
+Protocol :  Udp  
+ SourcePort :  54457
+ DestinationPort :  443
+ --------------------------------------------- 
+Protocol :  Udp  
+ SourcePort :  54457
+ DestinationPort :  443
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63519
+ DestinationPort :  443
+ SequenceNumber :  2235404182
+ NextSequenceNuber :  2235404419
+ AcknowladgmentNumber :  3804133651
+ --------------------------------------------- 
+Protocol :  Udp  
+ SourcePort :  63018
+ DestinationPort :  443
+ --------------------------------------------- 
+Protocol :  Udp  
+ SourcePort :  443
+ DestinationPort :  63018
+ --------------------------------------------- 
+Protocol :  Udp  
+ SourcePort :  443
+ DestinationPort :  63018
+ --------------------------------------------- 
+Protocol :  Udp  
+ SourcePort :  63018
+ DestinationPort :  443
+ --------------------------------------------- 
+Protocol :  Udp  
+ SourcePort :  63018
+ DestinationPort :  443
+ --------------------------------------------- 
+Protocol :  Udp  
+ SourcePort :  63018
+ DestinationPort :  443
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63520
+ DestinationPort :  443
+ SequenceNumber :  2274863502
+ NextSequenceNuber :  2274863880
+ AcknowladgmentNumber :  3863676226
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63520
+ DestinationPort :  443
+ SequenceNumber :  2274863502
+ NextSequenceNuber :  2274863880
+ AcknowladgmentNumber :  3863676226
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63196
+ DestinationPort :  443
+ SequenceNumber :  3781398186
+ NextSequenceNuber :  3781398633
+ AcknowladgmentNumber :  2953958614
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63196
+ DestinationPort :  443
+ SequenceNumber :  3781398186
+ NextSequenceNuber :  3781398633
+ AcknowladgmentNumber :  2953958614
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63196
+ DestinationPort :  443
+ SequenceNumber :  3781398633
+ NextSequenceNuber :  3781398633
+ AcknowladgmentNumber :  2953958656
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  443
+ DestinationPort :  63520
+ SequenceNumber :  3863688588
+ NextSequenceNuber :  3863689988
+ AcknowladgmentNumber :  2274870179
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  443
+ DestinationPort :  63520
+ SequenceNumber :  3863719106
+ NextSequenceNuber :  3863720506
+ AcknowladgmentNumber :  2274873292
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63522
+ DestinationPort :  443
+ SequenceNumber :  2513445164
+ NextSequenceNuber :  2513445164
+ AcknowladgmentNumber :  2054800281
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  443
+ DestinationPort :  63522
+ SequenceNumber :  2054841643
+ NextSequenceNuber :  2054843043
+ AcknowladgmentNumber :  2513445305
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63196
+ DestinationPort :  443
+ SequenceNumber :  3781447149
+ NextSequenceNuber :  3781448271
+ AcknowladgmentNumber :  2953959705
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63520
+ DestinationPort :  443
+ SequenceNumber :  2274878072
+ NextSequenceNuber :  2274879472
+ AcknowladgmentNumber :  3863782252
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63524
+ DestinationPort :  443
+ SequenceNumber :  388187344
+ NextSequenceNuber :  388187395
+ AcknowladgmentNumber :  1380282837
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63524
+ DestinationPort :  443
+ SequenceNumber :  388187344
+ NextSequenceNuber :  388187395
+ AcknowladgmentNumber :  1380282837
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  5228
+ DestinationPort :  63118
+ SequenceNumber :  117839838
+ NextSequenceNuber :  117839838
+ AcknowladgmentNumber :  2169673495
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  5228
+ DestinationPort :  63118
+ SequenceNumber :  117839838
+ NextSequenceNuber :  117839838
+ AcknowladgmentNumber :  2169673495
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  443
+ DestinationPort :  63524
+ SequenceNumber :  1380283570
+ NextSequenceNuber :  1380283570
+ AcknowladgmentNumber :  388187783
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  443
+ DestinationPort :  63524
+ SequenceNumber :  1380283570
+ NextSequenceNuber :  1380283570
+ AcknowladgmentNumber :  388187783
+ --------------------------------------------- 
+Protocol :  Udp  
+ SourcePort :  443
+ DestinationPort :  49277
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  443
+ DestinationPort :  63525
+ SequenceNumber :  3264859106
+ NextSequenceNuber :  3264860257
+ AcknowladgmentNumber :  3993894562
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  443
+ DestinationPort :  63525
+ SequenceNumber :  3264859106
+ NextSequenceNuber :  3264860257
+ AcknowladgmentNumber :  3993894562
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63525
+ DestinationPort :  443
+ SequenceNumber :  3993894562
+ NextSequenceNuber :  3993894562
+ AcknowladgmentNumber :  3264860257
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63525
+ DestinationPort :  443
+ SequenceNumber :  3993894562
+ NextSequenceNuber :  3993894562
+ AcknowladgmentNumber :  3264860257
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63525
+ DestinationPort :  443
+ SequenceNumber :  3993894562
+ NextSequenceNuber :  3993894562
+ AcknowladgmentNumber :  3264860257
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63525
+ DestinationPort :  443
+ SequenceNumber :  3993894562
+ NextSequenceNuber :  3993894562
+ AcknowladgmentNumber :  3264860257
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63525
+ DestinationPort :  443
+ SequenceNumber :  3993894562
+ NextSequenceNuber :  3993894562
+ AcknowladgmentNumber :  3264860257
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63525
+ DestinationPort :  443
+ SequenceNumber :  3993894562
+ NextSequenceNuber :  3993894562
+ AcknowladgmentNumber :  3264860257
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63525
+ DestinationPort :  443
+ SequenceNumber :  3993894562
+ NextSequenceNuber :  3993894562
+ AcknowladgmentNumber :  3264860257
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63525
+ DestinationPort :  443
+ SequenceNumber :  3993894562
+ NextSequenceNuber :  3993894562
+ AcknowladgmentNumber :  3264860257
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63525
+ DestinationPort :  443
+ SequenceNumber :  3993894562
+ NextSequenceNuber :  3993894562
+ AcknowladgmentNumber :  3264860257
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63525
+ DestinationPort :  443
+ SequenceNumber :  3993895516
+ NextSequenceNuber :  3993895516
+ AcknowladgmentNumber :  3264860561
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63525
+ DestinationPort :  443
+ SequenceNumber :  3993895516
+ NextSequenceNuber :  3993895516
+ AcknowladgmentNumber :  3264860561
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63525
+ DestinationPort :  443
+ SequenceNumber :  3993895516
+ NextSequenceNuber :  3993895516
+ AcknowladgmentNumber :  3264860561
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63525
+ DestinationPort :  443
+ SequenceNumber :  3993895516
+ NextSequenceNuber :  3993895516
+ AcknowladgmentNumber :  3264860561
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63525
+ DestinationPort :  443
+ SequenceNumber :  3993895516
+ NextSequenceNuber :  3993895516
+ AcknowladgmentNumber :  3264860561
+ --------------------------------------------- 
+Protocol :  Tcp  
+ SourcePort :  63525
+ DestinationPort :  443
+ SequenceNumber :  3993895516
+ NextSequenceNuber :  3993895516
+ AcknowladgmentNumber :  3264860561
+ --------------------------------------------- 

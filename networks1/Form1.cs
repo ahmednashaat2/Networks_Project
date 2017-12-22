@@ -311,7 +311,7 @@ namespace networks1
                                 if (packet1.Data_Length == packet1.Data.Length)
                                 {
 
-                                    using (BinaryWriter writer = new BinaryWriter(File.Open(@"D:\captured\" + Directory.CreateDirectory(Path.GetFileName(packet1.Name)), FileMode.Create)))
+                                    using (BinaryWriter writer = new BinaryWriter(File.Open(@"E:\networks final\" + Directory.CreateDirectory(Path.GetFileName(packet1.Name)), FileMode.Create)))
                                     {
                                         writer.Write(packet1.Data);
 
@@ -343,7 +343,7 @@ namespace networks1
                     textBox1.Text = "Protocol :  Tcp  \r\n SourcePort :  " + tcpsrc + "\r\n DestinationPort :  " + tcpdes + "\r\n SequenceNumber :  " + tcpsec + "\r\n NextSequenceNuber :  " + tcpnsec + "\r\n AcknowladgmentNumber :  " + tcpack;
                     if (save.Checked)
                     {
-                        using (StreamWriter writer = new StreamWriter(@"D:\Capture\TcpPacketsInfo.txt", true))
+                        using (StreamWriter writer = new StreamWriter(@"E:\networks final\.txt", true))
                         {
                             writer.Write("Protocol :  Tcp  \r\n SourcePort :  " + tcpsrc + "\r\n DestinationPort :  " + tcpdes + "\r\n SequenceNumber :  " + tcpsec + "\r\n NextSequenceNuber :  " + tcpnsec + "\r\n AcknowladgmentNumber :  " + tcpack + "\r\n --------------------------------------------- \r\n");
                         }
@@ -356,7 +356,7 @@ namespace networks1
                         textBox1.Text = "Protocol :  Http  \r\n Version :  " + httpver + "\r\n Length :  " + httplen + "\r\n Type :  " + reqres + "\r\n Header :  \r\n" + httpheader + "\r\n Body :  \r\n" + httpbody;
                         if (save.Checked)
                         {
-                            using (StreamWriter writer = new StreamWriter(@"C:\Users\Islam95\Desktop\networks1\save.txt", true))
+                            using (StreamWriter writer = new StreamWriter(@"E:\networks final\.txt", true))
                             {
                                 writer.Write("Protocol :  Http  \r\n Version :  " + httpver + "\r\n Length :  " + httplen + "\r\n Type :  " + reqres + "\r\n Header :  \r\n" + httpheader + "\r\n --------------------------------------------- \r\n");
                             }
@@ -370,7 +370,7 @@ namespace networks1
                             textBox1.Text = "Protocol :  Udp  \r\n SourcePort :  " + udpscr + "\r\n DestinationPort :  " + udpdes;
                             if (save.Checked)
                             {
-                                using (StreamWriter writer = new StreamWriter(@"C:\Users\Islam95\Desktop\networks1\save.txt", true))
+                                using (StreamWriter writer = new StreamWriter(@"E:\networks final\.txt", true))
                                 {
                                     writer.Write("Protocol :  Udp  \r\n SourcePort :  " + udpscr + "\r\n DestinationPort :  " + udpdes + "\r\n --------------------------------------------- \r\n");
                                 }
@@ -437,7 +437,7 @@ namespace networks1
             {
                 using (PacketCommunicator communicator = selectedAdapter.Open(65536, PacketDeviceOpenAttributes.Promiscuous, 1000))
                 {
-                    using (PacketDumpFile dumpFile = communicator.OpenDump(@"C:\Users\Islam95\Desktop\networks1\save.pcap"))
+                    using (PacketDumpFile dumpFile = communicator.OpenDump(@"E:\networks final\.pcap"))
                     {
                         // start the capture
                         communicator.ReceivePackets(0, dumpFile.Dump);
